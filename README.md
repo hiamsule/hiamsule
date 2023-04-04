@@ -12,7 +12,7 @@
    
  <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="400">
+  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" alt="Coder GIF" width="800" height="400">
   
 </p>
 
