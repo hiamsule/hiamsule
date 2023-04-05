@@ -51,7 +51,7 @@
 
 <div align="center">
   <!-- <a href=""> -->
-  <img  src="https://raw.githubusercontent.com/sulebilgic/sulebilgic/main/img/snake.svg"
+  <img  src="https://raw.githubusercontent.com/sulecan/sulecan/main/snake.svg"
        alt="snake" /></a>
 </div>
 
