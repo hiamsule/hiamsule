@@ -25,6 +25,8 @@
 <a href="https://de.wikipedia.org/wiki/Hardware" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/hardware.png" width="36" height="36" alt="Express" /></a>
 <a href="https://www.linkedin.com/in/sule-bilgic/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/git.png" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/git.png" width="36" height="36" alt="Figma" /></a>
 <a href="https://aws.amazon.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-amazon-web-services.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://kubernetes.io/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-kubernetes.svg" width="36" height="36" alt="K8s" /></a>
 <a href="https://www.docker.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-docker.svg" width="36" height="36" alt="Docker" /></a>
