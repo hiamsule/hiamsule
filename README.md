@@ -16,21 +16,27 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
+### Skills
+
+
 <p align="left">
+<a href="https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/bash.png" width="36" height="36" alt="Bash" /></a>
+<a href="https://aws.amazon.com/de/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=d74bd377-a587-4ff8-8bce-27ce52f4b02d&sc_channel=ps&s_kwcid=AL!4422!3!590302464433!e!!g!!amazon-web-services-server&ef_id=Cj0KCQiA_P6dBhD1ARIsAAGI7HCpU-TVLwvudjZtZCsU283q3H37PrTFOEuE6L-fJnkM_Ut2dvRZKUkaAiKtEALw_wcB:G:s&s_kwcid=AL!4422!3!590302464433!e!!g!!amazon-web-services-server" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/cloud.png" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://de.wikipedia.org/wiki/Hardware" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/hardware.png" width="36" height="36" alt="Express" /></a>
+<a href="https://www.udemy.com/certificate/UC-be74b709-d96d-4e78-bedc-c4912b4eec8c/" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/network.png" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.linkedin.com/in/yakuphan-bilgic-9b8371239/details/skills/" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/python.png" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/git.png" width="36" height="36" alt="Figma" /></a>
+<a href="https://aws.amazon.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-amazon-web-services.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://kubernetes.io/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-kubernetes.svg" width="36" height="36" alt="K8s" /></a>
+<a href="https://www.docker.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-docker.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://circleci.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-circleci.svg" width="36" height="36" alt="CircleCI" /></a>
+<a href="images/logos/circleci.png" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/containers.png" width="36" height="36" alt="Containers" /></a>
+<a href="https://linuxzoo.net/" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/logos/linux.png" width="36" height="36" alt="Containers" /></a>
 
-  
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
- <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
-<a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260916-8472f064-1a1e-4689-99f8-be5f4d5eac56.png" alt="gitHub" height="30"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="30"/> </a>
+
 </p>
 
-</p> 
 
 
 
