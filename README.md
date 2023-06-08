@@ -50,7 +50,9 @@
 ## AWS Projects
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|Project-1   | [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/sulecan/Mein-neues-Projekt.git)|
+|Project-101   |[Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation](Project-101-kittens-carousel-static-website-ec2)| 
+|Project-102   | [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/sulecan/Mein-neues-Projekt.git)|
+
 
 
 
