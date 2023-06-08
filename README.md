@@ -47,20 +47,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulecan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="50%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulecan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-<div align="center">
-  <a href="#">
-    <h2>🏆 Github Profile Trophy 🏆</h2>    
-        <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=sulecan&column=8&theme=onedark&no-frame=true&margin-w=15" />    
-  </a>
-</div>
+## AWS Projects
+|  Name                  |                                                    Description                                                                       |
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Project-104   | [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/sulecan/Mein-neues-Projekt.git)|
 
-
-<div align="center">
-  <!-- <a href=""> -->
-  <img  src="https://raw.githubusercontent.com/sulecan/sulecan/main/snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
