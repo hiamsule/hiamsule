@@ -52,7 +52,7 @@
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |Project-101   |[Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation](https://github.com/sulecan/Project-101-kittens-carousel-static-website-ec2.git)| 
 |Project-102   | [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/sulecan/Mein-neues-Projekt.git)|
-|Project-103   | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using AWS Cloudformation](https://github.com/sulecan/Mein-neues-Projekt.git)|
+|Project-103   | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using AWS Cloudformation](https://github.com/sulecan/Project-003-Phonebook-Application.git)|
 
 
 
