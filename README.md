@@ -47,6 +47,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulecan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="50%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulecan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
+## ITF Projects
+|  Name                  |                                                    Description                                                                       |
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Linux Advanced Project   |[Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/sulecan/Project-101-kittens-carousel-static-website-ec2.git)| 
+
 ## AWS Projects
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
