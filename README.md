@@ -50,7 +50,7 @@
 ## ITF Projects
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|Linux Advanced Project   |[Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/sulecan/Project-101-kittens-carousel-static-website-ec2.git)| 
+|Linux Advanced Project   |[Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/sulecan/Linux-Advanced-Project.git)| 
 
 ## AWS Projects
 |  Name                  |                                                    Description                                                                       |
