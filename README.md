@@ -51,7 +51,7 @@
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |Linux Advanced Project   |[Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/sulecan/Linux-Advanced-Project.git)| 
-|Python Advanced Projects   |[Projects Developed by Sule Bilgic Using the Python Programming Language](https://github.com/sulecan/Python-Advanced-Project.git)| 
+|Python Projects   |[Projects Developed by Sule Bilgic Using the Python Programming Language](https://github.com/sulecan/Python-Advanced-Project.git)| 
 
 ## AWS Projects
 |  Name                  |                                                    Description                                                                       |
