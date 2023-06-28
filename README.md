@@ -62,6 +62,11 @@
 |Project-104   | [Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation and AWS CLI](https://github.com/sulecan/Roman-Numerals-Converter-Application-.git)|
 |CapstoneProject   | [Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53](https://github.com/sulecan/CapstoneProject.git)|
 
+## DevOps Projects
+|  Name                  |                                                    Description                                                                       |
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Project-101   |[Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation](https://github.com/sulecan/Project-101-kittens-carousel-static-website-ec2.git)| 
+
 
 
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
