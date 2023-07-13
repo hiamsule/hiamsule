@@ -65,7 +65,7 @@
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| Project-202   |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/hiamsule/TerraformProjekt.git)| 
+| TerraformProject  |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/hiamsule/TerraformProjekt.git)| 
 
 
 
