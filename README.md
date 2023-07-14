@@ -41,11 +41,7 @@
 
 
 
-## 📈 Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sulecan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="47%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulecan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="50%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulecan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
 
 ## ITF Projects
 |  Name                  |                                                    Description                                                                       |
