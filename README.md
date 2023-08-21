@@ -57,7 +57,7 @@
 |Project-103   | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using AWS Cloudformation](https://github.com/sulecan/Project-003-Phonebook-Application.git)|
 |Project-104   | [Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation and AWS CLI](https://github.com/sulecan/Roman-Numerals-Converter-Application-.git)|
 |Project-105   |[ Creating a Secure and Dynamic Three-Tier Data Storage Application with AWS](https://github.com/hiamsule/Creating-a-Secure-and-Dynamic-Three-Tier-Data-Storage-Application-with-AWS.git)| 
-|CapstoneProject   | [Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53](https://github.com/sulecan/CapstoneProject.git)|
+|Capstone Project   | [Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53](https://github.com/sulecan/CapstoneProject.git)|
 
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
