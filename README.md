@@ -66,7 +66,7 @@
 | Docker Project  |[Dockerization of Bookstore Web API (Python Flask) with MySQL](https://github.com/hiamsule/DockerProject.git)|
 | Kubernetes Project  |[Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes](https://github.com/hiamsule/KubernetesProjekt.git)|
 | Ansible Project  |[Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/hiamsule/AnsibleProject.git)|
-| Docker Swarm Project  |[Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/hiamsule/AnsibleProject.git)|
+| Docker Swarm Project  |[Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL](https://github.com/hiamsule/DockerSwarmProject.git)|
 
 
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
