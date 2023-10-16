@@ -59,6 +59,11 @@
 |Project-105   |[ Creating a Secure and Dynamic Three-Tier Data Storage Application with AWS](https://github.com/hiamsule/Creating-a-Secure-and-Dynamic-Three-Tier-Data-Storage-Application-with-AWS.git)| 
 |Capstone Project   | [Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53](https://github.com/sulecan/CapstoneProject.git)|
 
+## Azure Project
+|  Name                  |                                                    Description                                                                       |
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Linux Advanced Project   |[Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/sulecan/Linux-Advanced-Project.git)| 
+
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
