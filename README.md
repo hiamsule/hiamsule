@@ -62,7 +62,7 @@
 ## Azure Project
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|Linux Advanced Project   |[Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/sulecan/Linux-Advanced-Project.git)| 
+|Microsoft Azure Project   |[Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/sulecan/Linux-Advanced-Project.git)| 
 
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
