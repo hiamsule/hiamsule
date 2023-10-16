@@ -62,8 +62,7 @@
 ## Azure Project
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|Microsoft Azure Project   |[Azure Multi Stage Web Infrastructure Deployment](https://github.com/sulecan/Linux-Advanced-Project.git)].(https://github.com/sulecan/CapstoneProject.git)|
-
+|Microsoft Azure Project   |[Azure Multi Stage Web Infrastructure Deployment](https://github.com/sulecan/Linux-Advanced-Project.git)](https://github.com/hiamsule/TerraformProjekt.git)| 
 
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
