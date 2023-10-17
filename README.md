@@ -61,8 +61,8 @@
 
 ## Azure Project
 |  Name                  |                                                    Description                                                                       |
-| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: | 
-| Microsoft Azure Project  |[Azure Multi Stage Web Infrastructure Deployment](https://github.com/hiamsule/AzureProjekt.git)| 
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Microsoft Azure Project   |[Azure Multi Stage Web Infrastructure Deployment](https://github.com/hiamsule/AzureProjekt.git)| 
 
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
