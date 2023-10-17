@@ -62,7 +62,8 @@
 ## Azure Project
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|Microsoft Azure Project   |[Azure Multi Stage Web Infrastructure Deployment](https://github.com/hiamsule/AzureProjekt.git)                                              | 
+|Microsoft Azure Project   |[Azure Multi Stage Web Infrastructure Deployment](https://github.com/hiamsule/AzureProjekt.git)| 
+| Ansible Project  |[Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/hiamsule/AnsibleProject.git)|
 
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
