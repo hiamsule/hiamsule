@@ -68,7 +68,7 @@
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | Terraform Project  |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/hiamsule/TerraformProjekt.git)| 
-| Terraform Project-2  |[Managing AWS EC2 with Terraform](https://github.com/hiamsule/TerraformProjekt.git)| 
+| Terraform Project-2  |[Managing AWS EC2 with Terraform](https://github.com/hiamsule/TerraformProjektneu.git)| 
 | Docker Project  |[Dockerization of Bookstore Web API (Python Flask) with MySQL](https://github.com/hiamsule/DockerProject.git)|
 | Docker Swarm Project  |[Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL](https://github.com/hiamsule/DockerSwarmProject.git)|
 | Kubernetes Project  |[Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes](https://github.com/hiamsule/KubernetesProjekt.git)|
